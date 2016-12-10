@@ -6,7 +6,8 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "Easily Integrate with the Smyte API"
   s.homepage     = "http://smyte.com"
-  s.license      = "Commercial"
+  s.license      = { :type => "Commerical", :file => "LICENSE" }
+  
   s.author             = { "Matthew Knippen" => "matthew@zwiffer.com" }
   s.social_media_url   = "http://twitter.com/mknippen"
 
