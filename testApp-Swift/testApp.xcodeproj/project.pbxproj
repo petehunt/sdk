@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0448EFE1E5FB786006C4C91 /* SmyteSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = FAC97C881DFBCC4800C7BADB /* SmyteSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		FA16FCED1DFBCC6D005DC635 /* SmyteSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAC97C881DFBCC4800C7BADB /* SmyteSDK.framework */; };
 		FA6B4FC01DAABE4E0032A820 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6B4FBF1DAABE4E0032A820 /* AppDelegate.swift */; };
 		FA6B4FC21DAABE4E0032A820 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6B4FC11DAABE4E0032A820 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				A0448EFE1E5FB786006C4C91 /* SmyteSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;

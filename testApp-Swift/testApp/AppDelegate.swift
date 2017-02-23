@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        Smyte.initialize(clientId: "1f71b2b7a3c9c0e70303d668950281a6", sessionId: "testSession", deviceId: nil)
+        Smyte.initialize(clientId: "test client ID", sessionId: "testSession", deviceId: nil)
         return true
     }
 

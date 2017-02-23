@@ -1,13 +1,14 @@
+# coding: utf-8
 
 Pod::Spec.new do |s|
 
 
   s.name         = "Smyte-iOS-SDK"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "Easily Integrate with the Smyte API"
   s.homepage     = "http://smyte.com"
   s.license      = { :type => "Commerical", :file => "LICENSE" }
-  
+
   s.author             = { "Matthew Knippen" => "matthew@zwiffer.com" }
   s.social_media_url   = "http://twitter.com/mknippen"
 

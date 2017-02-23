@@ -1,0 +1,10 @@
+framework module SmyteSDK {
+  umbrella header "SmyteSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SmyteSDK.Swift {
+    header "SmyteSDK-Swift.h"
+}
